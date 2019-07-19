@@ -1,4 +1,4 @@
-# Basic-Python-Web-Scraper
+# Basic Python Web Scraper using Beautiful Soup 4
 A Web Scraper written in Python with minimal lines of code. It can be used to get any form of data from a URL. Use in Console.
 This short script uses the Beautiful Soup 4 Library along with the LXML parser.
 
