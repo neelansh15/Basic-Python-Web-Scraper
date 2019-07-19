@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = 'https://twitter.com'
+url = input("Enter URL:")
 data = requests.get(url).text
 
 soup = BeautifulSoup(data, "lxml")
